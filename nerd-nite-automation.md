@@ -1,6 +1,6 @@
-## Are Robots Coming to Take Your Job?
+footer: Patrick Rauland - @BFTrick
 
-#### Patrick Rauland - @BFTrick
+## Are Robots Coming to Take Your Job?
 
 ---
 
@@ -111,51 +111,81 @@ This cafeteria replaced all of their staff with self serve vending Machines[^5]
 
 ## If a job _can_ be automated it _will_
 
-^ But I don't think this is true. Even though we have been automating jobs since computers became mainstream in the 70s & 80s we haven't really seen that big of an impact.
+^ But I don't think this is true. Even though we have been automating jobs since computers became mainstream in the 80s we haven't really seen that would indicate that their are net job losses.
 
 ---
 
-The Department of Labor tracks productivity in the US. And it's basically our GDP divided by the number of working people.
+## Is There Evidence Robots Are Taking Our Jobs?
 
-If automation were huge thing the productivity of US workers would soar right? Some jobs are automated and we'd get more out put out of less people.
+^ We've seen articles like the ones I showed earlier for the past couple years.
+
+^ Before we start losing our minds that a bazillion jobs have been lost and we're all going to starve in the gutter let's take a look at what's happened so far.
+
+^ There are a couple numbers we can look at. The fist is productivity which is tracked by the US Labor Department
 
 ---
 
-But actually the opposite has happened. In the 1940s-1970s we were on average 3% more productive every year.
+![fit](assets/us-productivity.png)
 
-But since 2007 it's grown at a rate of 1.2 percent.
+^ But actually the opposite has happened.[^7]
 
-And the last two years it's been 0.6 percent.
+^ [^7]: https://www.bls.gov/opub/btn/volume-6/below-trend-the-us-productivity-slowdown-since-the-great-recession.htm
+
+^ In the 1940s-1970s we were on average 3% more productive every year.
+
+^ But since 2007 it's grown at a rate of 1.2 percent.
+
+^ And the last two years it's been 0.6 percent.
 
 ^ https://www.wired.com/2017/08/robots-will-not-take-your-job/
 
----
-
-Also you'd think if automation were happening on a grand scale we'd see a spike in unemployment. But we're below 5% which is healthy.
-
-from: https://www.wired.com/2017/08/robots-will-not-take-your-job/
+^ So productivity is insanely low. We should be seeing really high productivity because robots are doing jobs for us.
 
 ---
 
-Or maybe you'd say that unemployment might not be low if people quickly find another job. But if you look at job churn it's the lowest it's been in decades
+![fit](assets/unemployment-rate.jpg)
 
-![right fit](assets/workers-are-staying-put.png)
+^ Also you'd think if automation were happening on a grand scale we'd see a spike in unemployment. But we're below 5% which is healthy.
 
-from: https://www.wired.com/2017/08/robots-will-not-take-your-job/
+^ And we're basically back to where we were since 2007 before the recession.
 
----
-
-So even though we've been automating jobs with computers for the last 5 decades it hasn't had much of an effect.
+^ from: https://data.bls.gov/pdq/SurveyOutputServlet
 
 ---
 
-# Why Automation Isn't Taking Off
+^ Or maybe you'd say that unemployment might not be low if people quickly find another job. But if you look at job churn it's the lowest it's been in decades
+
+![fit](assets/workers-are-staying-put.png)
+
+^ from: https://www.wired.com/2017/08/robots-will-not-take-your-job/
+
+^ this means that people aren't moving from job to job. Or industry to industry and they're being disrupted.
+
+---
+
+![fit](assets/job-tenure.png)
+
+^ and if you look at other metrics like job tenure they match up. Job tenure is going up meaning people are working longer at the same company than they were 5-10 years ago.
+
+---
+
+## No Evidence Automation Is Ruining Employment
+
+^ So even though we've been automating jobs with computers for the last 5 decades it hasn't had much of an effect on jobs.
+
+---
+
+## Why Automation Isn't Taking Off
+
+^ I'd like to take some time to explain why it isn't working. Because again it seems so obvious that it is going to explode our economy.
 
 ---
 
 ## 1) No Investment
 
-One reason we aren't moving faster towards robotics is that we aren't spending any money on it.
+![right fit](assets/spending-by-industry.jpg)
+
+^ One reason we aren't moving faster towards robotics is that we aren't spending any money on it.
 
 ^ that small bar is what we invested in robotics here in the US. 11.3 billion dollars.
 
@@ -163,17 +193,17 @@ One reason we aren't moving faster towards robotics is that we aren't spending a
 
 ^ I made a slideshow of some of my favorites but my partner convinced me to take it out.
 
-^ from: https://www.wired.com/2017/08/robots-will-not-take-your-job/
-
 ^ So seriously sex toys are great. But we're barely investing anything in automation. And at this current pace it will take us decades to perfect all of those things that automation says is right around the corner.
+
+^ from: https://www.wired.com/2017/08/robots-will-not-take-your-job/
 
 ---
 
 ## 2) New & Better Jobs
 
-^ There is another reason that we might not be seeing an impact on our economy. As jobs are eliminated new jobs are created or they're not eliminated and they're just changed.
+![](assets/drawing.jpg)
 
----
+^ There is another reason that we might not be seeing an impact on employment. As jobs are eliminated new jobs are created.
 
 ^ Well let me tell you about what my job would have been in the 70s: accounting clerks and bookkeepers.
 
@@ -183,15 +213,27 @@ One reason we aren't moving faster towards robotics is that we aren't spending a
 
 ---
 
-^ Then in 1979 VisiCalc was released for the Apple II computer. And it was the first computer spreadsheet. And I believe it was the top selling piece of software for the Apple II.
+![](assets/visicalc.png)
+
+# VisiCalc
+
+^ Then in 1979 VisiCalc was released for the Apple II computer. And it was the first computer spreadsheet and it quickly spread across the business world. Selling 700,000 copies in six years.
 
 ^ So from 1980 a year after VisiCalc was released until 1990 do you know what happened to those accounting clerk jobs?
+
+---
+
+### Lost 400,000 accounting _clerk_ jobs
 
 ^ Well technically we lost 400,000 jobs in that category.
 
 ---
 
-^ But we gained 600,000 accounting jobs.
+### Gained 600,000 accounting jobs
+
+^ So a net gain of 200,000 jobs after we made the job easier.
+
+^ This is the opposite of what supply and demand tells us. As we increase supply we should see a decrease in demand.
 
 ^ And that's because when we made it easy to update spreadsheets we started asking a lot more questions. Before computerized spreadsheets we might have only been able to ask 25 questions a year to our accounting clerks team
 
@@ -199,63 +241,105 @@ One reason we aren't moving faster towards robotics is that we aren't spending a
 
 ^ Many of those accounting clerks kept their jobs and just had to learn a new technology.
 
-^ On paper their jobs were eliminated but another job super similar to their previous job was created.
+^ On paper their jobs were eliminated but another job super similar to their previous job was created. And in fact now that there were fewer calculation mistakes businesses invested more in accounting than they did before.
+
+^ So even when you think automation might kill an entire industry it could infact grow it.
 
 ---
 
-## 3) Huge Costs
+## 3) Huge Barrier to Entry
 
-^ In addition to us not spending much money on this. To actually automate something complex it takes a lot of time, a lot of money, & an insanely smart team.
+^ I mentioned that we're not spending much money. But another factor is that to solve even simple problems could take millions of dollars. It takes a lot of time, a lot of money, & an insanely smart team.
+
+^ And the best example of this is how just a few months ago we taught a computer  to beat the world champion at a game called Go.
 
 ---
+
+# Go
+
+![](assets/go-board-game.jpg)
 
 ^ Everyone here knows a computer beat the world champion of chess. And that happened in 1996.
 
-^ And you might have heard that a computer recently beat a human in Go.
-
----
-
-![right fit](assets/go-board-game.jpg)
-
-^ Go is much more complex than chess in terms of the moves & positions. So it took a lot longer to solve this problem. In fact it took an entire company called DeepMind which was acquired by Google to solve just this one game.
+^ Go is much more complex than chess in terms of the moves & positions. So it took a lot longer to solve this problem. In fact it took an entire company called DeepMind which was acquired by Google to solve  this game.
 
 ^ The researchers had to create 3 separate neural networks that all used different strategies to win at Go. And then they had a main program that would pick the right strategy at the right time.
 
-^ from: http://ludology.libsyn.com/gametek-classic-156-alpha-go
-
-^ It took them a long time to figure this out but they eventually mastered it. And this is the perfect example of something that can be automated if there's enough time and money. It took an incredibly smart time years to beat humans at Go. And this was a board game created over 2,000 years old.
+^ It took them a long time to figure this out but they eventually mastered it. And this is the perfect example of something that can be automated if there's enough time and money. It took an incredibly smart team years to beat humans at Go. And this was a board game created over 2,000 years old.
 
 ^ I actually do believe that 47% of our jobs could be automated if we have unlimited time & money.
+
+^ Lucky for us humans we have very limited time and money. Many creative tasks that could theoretically be done by robots are very far away.
+
+^ from: http://ludology.libsyn.com/gametek-classic-156-alpha-go
 
 ---
 
 ## 4) Humans are Terrible with Change
 
-^ Elevators used to actually kill people. You know how you run for an elevator? Well when we had elevator operators controlling the doors guess what happens if you reached for the door and they didn't see you?
+![](assets/elevator.jpg)
+
+---
+
+- The elevator industry had to create ads to convince people to use modern elevators.[^8]
+
+[^8]: https://www.amazon.com/Ascending-Rooms-Express-Elevators-Passenger/dp/1886536465
+
+![](assets/elevator.jpg)
+
+^ Elevators - something we take for granted every day.
+
+^ Here's a fun fact elevators used to kill people. You know how you run for an elevator? Well when we had elevator operators controlling the doors guess what happens if you reached for the door and they didn't see you?
 
 ^ Your hand would be crushed.
 
 ^ Some people tripped as they were running for the door. And they were crushed to death.
 
-^ So the elevator industry created safer doors, and a buttons that anyone could use. But when those first elevators first came out people used to walk in and when they didn't see an operator they walked right out.
+^ So the elevator industry tries to make a better product. They created safer doors, and a buttons that anyone could use. But when those first elevators first came out people used to walk in and when they didn't see an operator they walked right out. People refused to use them thinking they were unsafe.
 
 ^ The elevator industry had to create ads convincing people that they were safer than humans.
 
-^ It cost the elevator industry a lot of money to convince people to use a better product. Because we're stubborn. And that's just the way we are.
+^ It cost the elevator industry a lot of money to convince people to use a better product. Because we're stubborn. And I think that's important to remember.
 
-^ https://www.amazon.com/Ascending-Rooms-Express-Elevators-Passenger/dp/1886536465
+---
+
+![fit](assets/cellphones-smartphones.jpg)
+
+^ 23% of Americans still don't use a smartphone and those cost $20 new for the cheaper models.
+
+^ The iPhone was debuted in early 2007. And it was then and still is an amazing invention and it took us over 10 years to get to 77% adoption.
+
+^ Even if you invent a self driving car it will take a long time for the majority of Americans to be comfortable with them.
+
+
 
 ---
 
 ## 5) People Like People (Not Robots)
 
-The First ATM came out in 1967. That's 50 years ago and they haven't replaced tellers in banks.
+![fit](assets/dollar-bill.jpg)
 
-In fact the number of tellers has actually grown between 2000 & 2010.
+^ The First ATM came out in 1967. That's 50 years ago and they haven't replaced tellers in banks. And the vast majority of what a teller does can be automated by an ATM.
 
-Department of Labor does predict that the number of tellers will decline by 8 percent over the next decade. But that’s 8 percent. That's relatively small considering how easily it could be automated.
+^ It's name is literally Automated Teller Machine.
 
-From : https://www.wired.com/2017/08/robots-will-not-take-your-job/
+---
+
+## A.utomated
+## T.eller
+## M.achine
+
+![fit](assets/dollar-bill.jpg)
+
+^ In fact the number of tellers has actually grown between 2000 & 2010.
+
+^ And this shouldn't be surprising. I hate when electronic things go wrong and there's no way to fix things. God forbid you have a Google product break there's no easy way to report a bug or even just ask support for help.
+
+^ One of the amazing things about humans is we're so adaptable. We can switch from teller duty to customer support in a second. And if they're having problems with their account we can take in all of the information and come up with a solution.
+
+^ I like interacting with humans because they can theoretically help me with any problem. That's not the case with robots and that makes us uneasy.
+
+^ From : https://www.wired.com/2017/08/robots-will-not-take-your-job/
 
 ---
 
@@ -265,23 +349,39 @@ From : https://www.wired.com/2017/08/robots-will-not-take-your-job/
 
 ^ I think we believe all of the hype about automation because it seems true. And it's true-ish.
 
-^ Here's the thing we have lost a lot of jobs in the last 2 decades.
+^ Here's the thing the US has lost a lot of jobs in the last 2 decades.
 
 ---
 
-^ Two economists recently published a paper about what happened to manufacturing jobs in the US.
+^ Two economists from MIT published a paper earlier this year about what happened to manufacturing jobs in the US.
 
-* Industrial Automation (since 1990): -670,000
-* Trade with China (1999-2011): -2.4 million
+## Job Losses
+
+* Industrial Automation (since 1990): -670,000[^9]
+* Trade with China (1999-2011): -2.4 million[^9]
+
+^ industrial automation is responsible for 24,000 jobs a year
+
+^ China is responsible for 200,000 jobs a year
+
+[^9]: https://economics.mit.edu/files/12763
 
 ---
 
-"We’ve been running massive trade deficits, driven mainly by manufacturing, and we’ve seen a precipitous plunge in the number of manufacturing jobs. To say those two things aren’t correlated is nuts."
-- Dean Baker
+## Job Losses per year
 
-^ And here's what so disturbing at that statement. Donald Trump might accidentally be right about something. It's GINAs fault!
+* Industrial automation: 0.01%
+* Trade with China: 0.13%
 
-^ from: https://www.wired.com/2017/08/robots-will-not-take-your-job/
+^ When you break this down by the number of jobs and you break is down by year you can see that for every 1 job lost due to automation in the industrial sector we're losing 10 due to cheap trade from China.
+
+^ For reference there are 150 million working US adults
+
+---
+
+![fit](assets/trump-china-tweet.jpg)
+
+^ And here's what so disturbing about this. Donald Trump might accidentally be right about something. It's JINAs fault!
 
 ---
 
@@ -291,23 +391,29 @@ From : https://www.wired.com/2017/08/robots-will-not-take-your-job/
 
 ---
 
-Elon Musk announced he'll have the first self driving car go coast to coast this year. It will start in LA and drive to New York.
+![fit](assets/elon-musk.jpg)
 
-So Self driving cars are coming. And that will affect the transportation sector. But remember they won't come all at once.
+Coast to coast self driving car by the end of 2017.[^10]
 
-Even though automated elevators were better people preferred human elevator operators for years.
+^ Elon Musk announced he'll have the first self driving car go coast to coast this year. It will start in LA and drive to New York.
+
+^ So Self driving cars are coming. And that will affect the transportation sector. But remember they won't come all at once.
+
+^ Even though automated elevators were better people preferred human elevator operators for years.
+
+[^10]: http://blog.ted.com/what-will-the-future-look-like-elon-musk-speaks-at-ted2017/
 
 ---
 
-# Taxes
+![fit](assets/bill-gates.jpg)
 
-Bill Gates says robots should be taxed.[^20]
+Bill Gates: we need to replace income tax[^11]
 
 ^ We actually do need to think about how taxing robots. Right now a human who works for $50,000 a year generates a lot of tax revenue for the government. Robots don't. As humans start dropping out of the work force we have to make up that tax income somehow.
 
 ^ Bill Gates suggests a robot tax and some countries have started to look into this. But I would rather find taxes revenue from other places.
 
-[^20]: https://qz.com/911968/bill-gates-the-robot-that-takes-your-job-should-pay-taxes/
+[^11]: https://qz.com/911968/bill-gates-the-robot-that-takes-your-job-should-pay-taxes/
 
 ---
 
@@ -317,7 +423,7 @@ Bill Gates says robots should be taxed.[^20]
 
 ^ We need a way to redistribute wealth to people who can't find a job.
 
-^ During the great depression unemployment his 25%. And we're at 5% right now. So if we automate 20% of the jobs our there. We could have serious problems. So figuring out a universal basic income is really important.
+^ During the great depression unemployment hit 25%. And we're at 5% right now. So if we automate 20% of the jobs our there. We could have serious problems. So figuring out a universal basic income is really important.
 
 ---
 
@@ -329,110 +435,6 @@ Find Out If a Robot Will Take Your Job
 
 ---
 
-# Further
-
-Humans Need Not Apply: https://youtu.be/7Pq-S557XQU
-
-The Rise of the Machines – Why Automation is Different this Time: https://youtu.be/WSKi8HfcxEk
-
-The Rise of the Robots: http://a.co/3LeR3UW
-
-The Second Machine Age: http://a.co/fpaaGkh
-
----
-
 # Questions?
 
 ### Patrick Rauland - @BFTrick
-
----
-
-Major innovations
-
-- Fire (warmth & purifying water) - Millions of years ago
-- Wheel & Axel - 3,500 BC
-- Paper - 100
-- Compass - ~1,000
-- Printing Press - 1440
-- Refrigeration -
-- Plumbing - 1829 (the first hotel had indoor plumbing)
-- Internal Combustion Engine (cars, planes, trains) - 1859
-- Telephone (communicating everyone) - 1876
-- Electricity (light! computers, refrigeratorsm power) - 1879
-- Penicillin (the first anti-biotic) - 1928
-- Computer - 1832 (1971 when the first personal computer was sold)
-- Internet (shopping, communications, relationships, etc) - 1989
-
----
-
-It's natural for human to want to improve their tools.
-
-Show graph of the percent of US population in agriculture
-
-After we optimized agriculture - we started improving other things (ex construction machines)
-
-Everytime we created a better tool we became more productive. Meaning we could make more with the same amount of effort. And that free's a chunk of the population to do new better things.
-
-And decades of improving tools for physical labor we started to improve tools for mental labor (ex. Excel). In the 70s big companies used to have teams of people who managed their spreadsheets. And it tooks days to tweak one thing in the spreadsheet and see how it affected the rest of the sheet.
-
----
-
-In 1979 GM employed 800,000s of employees. And made 11 billion dollars.
-
-Google employed 58,000 & made 14 billion dollars
-
-From: https://www.youtube.com/watch?v=WSKi8HfcxEk
-
----
-
-What about the internet?
-
-It did create new industries. But it's not replacing as many jobs.
-
-In 2004 Blockbuster employed 84,000 employees and made 6 billion
-
-In Netflix had 4,500 employees and made 9 billion in revenue
-
-From: https://www.youtube.com/watch?v=WSKi8HfcxEk
-
----
-
-US Job Creation since 1970 has been going down.
-
-From: https://www.youtube.com/watch?v=WSKi8HfcxEk
-
-- In 1998 Humans worked 194 billion hours
-
-- Over the next 15 years output increased by 42%
-
-- But in 2013 we're still working 194 billion hours.
-
----
-
-What used to be 30 cashiers is now 1 human overseeing 30 robots
-
----
-
-Automation today isn't about teaching a bot one specific thing or a specific job.
-
-It's about creating a bot that can monitor how it should work and then it teaches it self.
-
----
-
-Won't unions or labor laws help us?
-
-- No! That's where the term luddite came from.
-
----
-
-Doesn't automation eliminate jobs we don't want to have anyway?
-
-- Automation is best at removing
-
----
-
-Things that bots are good at:
-
-- Paperwork
-- Decision making
-- Writing
