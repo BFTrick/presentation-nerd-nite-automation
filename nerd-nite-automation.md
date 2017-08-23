@@ -6,9 +6,11 @@ footer: Patrick Rauland - @BFTrick
 
 # Software Developer
 
-^ I'm a software developer so I spend a lot of time thinking about automation. And part of that is because I do a lot of automation programming my self.
+^ I'm a software developer and I program a lot of boring things so that people don't have to do them any more.
 
-^ There's a lot of hype around automation. You see some really crazy headlines like:
+^ And I view automation as a mixed bag with some good stuff and some bad stuff.
+
+^ But when I hear about automation on a podcast, on a blog, or in the news it gets a pretty bad rap.
 
 ---
 
@@ -121,15 +123,17 @@ This cafeteria replaced all of their staff with self serve vending Machines[^5]
 
 ^ Before we start losing our minds that a bazillion jobs have been lost and we're all going to starve in the gutter let's take a look at what's happened so far.
 
-^ There are a couple numbers we can look at. The fist is productivity which is tracked by the US Labor Department
+^ There are a couple numbers we can look at. The fist is productivity which is tracked by the US Labor Department.
+
+^ And productivity is basically the total amount of good and services divided by the total amount of hours worked
+
+^ So as robots do more work we should see an increase in productivity
 
 ---
 
 ![fit](assets/us-productivity.png)
 
-^ But actually the opposite has happened.[^7]
-
-^ [^7]: https://www.bls.gov/opub/btn/volume-6/below-trend-the-us-productivity-slowdown-since-the-great-recession.htm
+^ But actually the opposite has happened.
 
 ^ In the 1940s-1970s we were on average 3% more productive every year.
 
@@ -155,7 +159,7 @@ This cafeteria replaced all of their staff with self serve vending Machines[^5]
 
 ^ Or maybe you'd say that unemployment might not be low if people quickly find another job. But if you look at job churn it's the lowest it's been in decades
 
-![fit](assets/workers-are-staying-put.png)
+![fit](assets/workers-are-staying-put.jpg)
 
 ^ from: https://www.wired.com/2017/08/robots-will-not-take-your-job/
 
@@ -171,7 +175,7 @@ This cafeteria replaced all of their staff with self serve vending Machines[^5]
 
 ## No Evidence Automation Is Ruining Employment
 
-^ So even though we've been automating jobs with computers for the last 5 decades it hasn't had much of an effect on jobs.
+^ So even though we've been automating jobs with computers for the last 5 decades it hasn't had much of an affect on jobs.
 
 ---
 
@@ -193,7 +197,9 @@ This cafeteria replaced all of their staff with self serve vending Machines[^5]
 
 ^ I made a slideshow of some of my favorites but my partner convinced me to take it out.
 
-^ So seriously sex toys are great. But we're barely investing anything in automation. And at this current pace it will take us decades to perfect all of those things that automation says is right around the corner.
+^ But we're spending 15 billion on devices that - well if I can get anywhere close to 15 minutes of use I'm happy.
+
+^ But we're barely investing anything in automation. And at this current pace it will take us decades to perfect all of those things that automation says is right around the corner.
 
 ^ from: https://www.wired.com/2017/08/robots-will-not-take-your-job/
 
@@ -209,7 +215,7 @@ This cafeteria replaced all of their staff with self serve vending Machines[^5]
 
 ^ They were human excel spreadsheets. Businesses used to employ a team of accounting clerks to manage their spreadsheets. And this was before computers. So they were the size of board room tables. And you had to calculate every field by hand.
 
-^ Businesses used to want to know if we decreased costs for this product by 5% what happens to our bottom line? And the accounting clerks would go into their nerd caves for days to redo a whole spreadsheet and then they'd product the results.
+^ Businesses used to want to know if we decreased costs for this product by 5% what happens to our bottom line? And the accounting clerks would go into their nerd caves for days to redo a whole spreadsheet and then they'd produce the results.
 
 ---
 
@@ -233,9 +239,9 @@ This cafeteria replaced all of their staff with self serve vending Machines[^5]
 
 ^ So a net gain of 200,000 jobs after we made the job easier.
 
-^ This is the opposite of what supply and demand tells us. As we increase supply we should see a decrease in demand.
+^ This is the opposite of what supply and demand tells us. As we make supply more abundant the price of the service should go down and we should see less accountants.
 
-^ And that's because when we made it easy to update spreadsheets we started asking a lot more questions. Before computerized spreadsheets we might have only been able to ask 25 questions a year to our accounting clerks team
+^ But the reason we see the opposite here is because when we made it easy to update spreadsheets we started asking a lot more questions. Before computerized spreadsheets we might have only been able to ask 25 questions a year to our accounting clerks team
 
 ^ After the computerized spreadsheet we could ask hundreds or thousands of questions and create more advanced & accurate spreadsheets.
 
@@ -279,14 +285,6 @@ This cafeteria replaced all of their staff with self serve vending Machines[^5]
 
 ![](assets/elevator.jpg)
 
----
-
-- The elevator industry had to create ads to convince people to use modern elevators.[^8]
-
-[^8]: https://www.amazon.com/Ascending-Rooms-Express-Elevators-Passenger/dp/1886536465
-
-![](assets/elevator.jpg)
-
 ^ Elevators - something we take for granted every day.
 
 ^ Here's a fun fact elevators used to kill people. You know how you run for an elevator? Well when we had elevator operators controlling the doors guess what happens if you reached for the door and they didn't see you?
@@ -296,6 +294,14 @@ This cafeteria replaced all of their staff with self serve vending Machines[^5]
 ^ Some people tripped as they were running for the door. And they were crushed to death.
 
 ^ So the elevator industry tries to make a better product. They created safer doors, and a buttons that anyone could use. But when those first elevators first came out people used to walk in and when they didn't see an operator they walked right out. People refused to use them thinking they were unsafe.
+
+---
+
+- The elevator industry had to create ads to convince people to use modern elevators.[^8]
+
+[^8]: https://www.amazon.com/Ascending-Rooms-Express-Elevators-Passenger/dp/1886536465
+
+![](assets/elevator.jpg)
 
 ^ The elevator industry had to create ads convincing people that they were safer than humans.
 
@@ -310,7 +316,6 @@ This cafeteria replaced all of their staff with self serve vending Machines[^5]
 ^ The iPhone was debuted in early 2007. And it was then and still is an amazing invention and it took us over 10 years to get to 77% adoption.
 
 ^ Even if you invent a self driving car it will take a long time for the majority of Americans to be comfortable with them.
-
 
 
 ---
@@ -331,15 +336,13 @@ This cafeteria replaced all of their staff with self serve vending Machines[^5]
 
 ![fit](assets/dollar-bill.jpg)
 
-^ In fact the number of tellers has actually grown between 2000 & 2010.
+^ What might suprise you is that the number of tellers has actually grown between 2000 & 2010.
 
-^ And this shouldn't be surprising. I hate when electronic things go wrong and there's no way to fix things. God forbid you have a Google product break there's no easy way to report a bug or even just ask support for help.
+^ And I think that's because I hate when electronic things go wrong and there's no way to fix things. God forbid you have a Google product break there's no easy way to report a bug or even just ask support for help.
 
-^ One of the amazing things about humans is we're so adaptable. We can switch from teller duty to customer support in a second. And if they're having problems with their account we can take in all of the information and come up with a solution.
+^ One of the amazing things about humans is we're so adaptable. We can switch from teller duty to customer support in a second. And if they're having some sort of problem we can take in all of the information and come up with a solution.
 
-^ I like interacting with humans because they can theoretically help me with any problem. That's not the case with robots and that makes us uneasy.
-
-^ From : https://www.wired.com/2017/08/robots-will-not-take-your-job/
+^ Whereas with a machine you might be completely stuck.
 
 ---
 
@@ -360,34 +363,27 @@ This cafeteria replaced all of their staff with self serve vending Machines[^5]
 * Industrial Automation (since 1990): -670,000[^9]
 * Trade with China (1999-2011): -2.4 million[^9]
 
-^ industrial automation is responsible for 24,000 jobs a year
+^ talk about the numbers on the slide
 
-^ China is responsible for 200,000 jobs a year
+^ When you break this down by year you can see that for every 1 job lost due to automation in the industrial sector we're losing 10 due to cheap trade from China.
 
 [^9]: https://economics.mit.edu/files/12763
 
 ---
 
-## Job Losses per year
-
-* Industrial automation: 0.01%
-* Trade with China: 0.13%
-
-^ When you break this down by the number of jobs and you break is down by year you can see that for every 1 job lost due to automation in the industrial sector we're losing 10 due to cheap trade from China.
-
-^ For reference there are 150 million working US adults
-
----
-
-![fit](assets/trump-china-tweet.jpg)
+![fit](assets/pronounced-jina.gif)
 
 ^ And here's what so disturbing about this. Donald Trump might accidentally be right about something. It's JINAs fault!
 
 ---
 
-# Where Do We Go From Here?
+# What's Coming
 
-^ So automation could be amazing but we're not moving as quickly as we could. What's next?
+^ My main message here isn't that automation is irrelevant. Because it is a factor.
+
+^ Remember we're losing 10 times as many industrial jobs to China as we are to automation.
+
+^ Automation is a factor but isn’t going to be disastrous as all of the articles tell us. So while most jobs are probably safe technology is constantly advancing and we still have to adapt to that technology and new circumstances.
 
 ---
 
@@ -402,28 +398,6 @@ Coast to coast self driving car by the end of 2017.[^10]
 ^ Even though automated elevators were better people preferred human elevator operators for years.
 
 [^10]: http://blog.ted.com/what-will-the-future-look-like-elon-musk-speaks-at-ted2017/
-
----
-
-![fit](assets/bill-gates.jpg)
-
-Bill Gates: we need to replace income tax[^11]
-
-^ We actually do need to think about how taxing robots. Right now a human who works for $50,000 a year generates a lot of tax revenue for the government. Robots don't. As humans start dropping out of the work force we have to make up that tax income somehow.
-
-^ Bill Gates suggests a robot tax and some countries have started to look into this. But I would rather find taxes revenue from other places.
-
-[^11]: https://qz.com/911968/bill-gates-the-robot-that-takes-your-job-should-pay-taxes/
-
----
-
-# Universal Basic income
-
-^ We need to start thinking about a universal basic income. Right now our economy is designed around everyone being a consumer. If people don't work how will they consume?
-
-^ We need a way to redistribute wealth to people who can't find a job.
-
-^ During the great depression unemployment hit 25%. And we're at 5% right now. So if we automate 20% of the jobs our there. We could have serious problems. So figuring out a universal basic income is really important.
 
 ---
 
